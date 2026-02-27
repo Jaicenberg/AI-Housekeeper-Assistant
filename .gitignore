@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.env
+data/store.json
+*.log
+
+# Google service account credentials
+*.json.bak
+housekeeper-assistant-*.json
